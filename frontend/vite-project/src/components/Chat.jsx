@@ -53,7 +53,7 @@ const Chat = () => {
       <div className="w-full bg-white border-b border-gray-200 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
           <h1 className="text-3xl font-bold text-gray-900 flex items-center gap-2">
-            <span className="text-pink-600">CodeZuri AI</span> Chat Assistant
+            <span className="text-orange-600">CodeZuri</span> Chat Assistant
           </h1>
         </div>
       </div>
